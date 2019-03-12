@@ -331,7 +331,7 @@ Order BY GuestLevel ASC
 --match or make sense! :) Remember, INSERT Commands look like: INSERT INTO Table1 (column1, column2) VALUES (column1, column2)
 
 
- /* STEP 1 *   P.S. Did not want to mess with my other tables * Please 4give me RAT MASTER */
+ /* STEP 1 *   P.S. Did not want to mess with my other tables  */
 
 Create Table TESTRoles (
 ID INT IDENTITY (1,1) NOT NULL,
